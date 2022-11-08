@@ -1,5 +1,3 @@
-# foralgorithm
-
 | 순번 | Tag                          | 태그                | 문제집    | 추천 문제 수 | 총 문제 수 |  상태             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------:  | :------: |:---------------:|
 | 00 | Data Structure | 자료구조 | [바로가기](./data_structure) | 16 | 25 | ![status][Doing] |
@@ -25,4 +23,7 @@
 | 20 | Minimum Spanning Tree(MST) | 최소 스패닝 트리 | [바로가기](./minimum_spanning_tree) | 08 | 24 | ![status][Doing] |
 | 21 | Trie | 트라이 | [바로가기](./trie) | 05 | 09 | ![status][Doing] |
 | 22 | Dynamic Programming On Trees | 트리디피 | [바로가기](./dynamic_programming_on_trees) | 04 | 08 | ![status][Doing] |
+ 
+ 
+
  
